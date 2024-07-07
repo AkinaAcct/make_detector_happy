@@ -1,0 +1,6 @@
+id=RDB
+name=Root detector bypass
+version=v0001
+versionCode=0001
+author=Akina
+description=Make root detectors can't detect root!
